@@ -1,8 +1,8 @@
 # SignalPath-Finder
 
-SignalPath-Finder is a computational framework for identifying **downstream genes regulated by a gene complex** using transcriptomic data and prior biological knowledge. The method integrates distribution-based feature extraction, clustering guided by known downstream genes, and autoencoder-based gene ranking to prioritize candidate downstream genes.
+SignalPath-Finder is an AI-driven computational framework for identifying downstream genes regulated by a gene complex from transcriptomic data using prior biological knowledge. It integrates pseudo-peak–based distributional feature extraction, downstream-gene–guided clustering, and a tailored autoencoder for nonlinear latent-space modeling to perform representation-based candidate downstream genes prioritization.
 
-This repository contains the analysis pipeline used to identify **TOR complex downstream genes** from *Populus trichocarpa* transcriptomic datasets.
+This repository contains the analysis pipeline used to identify TOR complex downstream genes from Populus trichocarpa transcriptomic datasets using latent representation learning and nonlinear pattern discovery.
 
 ---
 
